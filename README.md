@@ -105,6 +105,51 @@ The model was evaluated using:
 Training history includes:
 - Accuracy Curve
 - Loss Curve
+# 📊 Data Visualization
+
+## Target Variable Distribution
+
+![Target Variable Distribution](images/Target%20Variable%20Distribution.jpg)
+
+---
+
+## Distribution of Numerical Features
+
+![Distribution of Numerical Features](images/Distribution%20of%20Numerical%20Features.jpg)
+
+---
+
+# 📈 Model Performance
+
+## Accuracy Curve
+
+![Accuracy](images/accuracy.jpg)
+
+---
+
+## Loss Curve
+
+![Loss](images/loss.jpg)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.jpg)
+
+---
+
+# 🖥️ Streamlit Application
+
+## Prediction Example 1
+
+![Prediction 1](images/Prediction%201.jpg)
+
+---
+
+## Prediction Example 2
+
+![Prediction 2](images/Prediction%202.jpg)
 # 📁 Project Structure
 
 Adult-Income-Prediction-ANN/
